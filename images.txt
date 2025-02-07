@@ -1,1 +1,1 @@
-nacos/nacos-server
+openjdk:8-jre
